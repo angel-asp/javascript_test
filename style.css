@@ -51,4 +51,8 @@ div.buttons {
     background-color: #ecec60;
 }
 
+div.buttons:hover {
+    background-color:#f1f1d5
+}
+
     
