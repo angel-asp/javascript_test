@@ -55,4 +55,21 @@ div.buttons:hover {
     background-color:#f1f1d5
 }
 
-    
+.multipleChoiceButton {
+    padding: 10px; 
+    border: 5px solid black;
+    background-color: hsl(0, 32%, 87%);
+    margin: 10px;
+}
+
+.multipleChoiceButton:hover {
+    background-color:#ffffff
+}
+
+.orderedlistBox {
+ text-align: left;
+}
+
+ol {
+    list-style-type: none;
+}
